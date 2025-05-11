@@ -12,8 +12,7 @@ PC Build Workshop is a web platform for building custom PCs. It helps users sele
 **PC Build Workshop** is a user-centric platform designed to help users build their own custom PCs with ease. It includes features like component selection, real-time compatibility checks, build ratings, and user reviews. This project aims to simplify the complex process of PC building and empower users with the knowledge and tools to create optimized builds tailored to their specific needs.
 
 ## 📺 Link to Video Explanation
-[Watch the Video Explanation](#) *(Replace with actual video link)*
-
+https://drive.google.com/file/d/1e8bnbAAGQHMY9qshuF9YyzsNjRGL6oKg/view?usp=sharing
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python (Flask or Django)  
